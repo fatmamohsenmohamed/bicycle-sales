@@ -20,7 +20,7 @@ Clone the Repository: git clone [repository-url]
 Open Power BI File: Navigate to [https://drive.google.com/file/d/your-file-id/view] and open the Power BI file in Microsoft Power BI Desktop.
 Explore Data: Use the interactive filters and slicers in Power BI to explore the relationships between different variables, such as how price impacts sales or which countries generate the highest profits.
 Screenshots
-
+![bb](https://github.com/user-attachments/assets/1d35a6e4-56de-4cff-abfa-ca102205f585)
 
 Data Sources
 Excel Dataset: Bicycle Sales Data
